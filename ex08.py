@@ -1,4 +1,4 @@
-# Exercício 8
+# Exercício 08
 
 # Faça agora o contrário, de Fahrenheit para Celsius.
 

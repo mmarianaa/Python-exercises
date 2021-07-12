@@ -1,4 +1,4 @@
-# Exercício 4
+# Exercício 04
 
 # Faça um programa que calcule o aumento de um salário.
 # Ele deve solicitar o valor do salário e a porcentagem

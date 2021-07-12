@@ -1,7 +1,7 @@
 # Exercício 15
 
-#  Código modificado do exercício passado (exercício 14) para que no caso
-#  de não tiver excesso na pesca apresentar a mensagem: Não há excesso
+# Código modificado do exercício passado (exercício 14) para que no caso
+# de não tiver excesso na pesca apresentar a mensagem: Não há excesso
 
 peso = float(input('Digite o peso da pesca: '))
 

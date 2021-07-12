@@ -1,4 +1,4 @@
-# Exercício 7
+# Exercício 07
 
 # Converta uma temperatura digitada em Celsius para Fahrenheit.
 

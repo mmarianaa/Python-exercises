@@ -1,4 +1,4 @@
-# Exercício 9
+# Exercício 09
 
 # Escreva um programa que pergunte a quantidade de km percorridos
 # por um carro alugado pelo usuário, assim como a quantidade de dias

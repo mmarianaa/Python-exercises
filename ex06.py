@@ -1,4 +1,4 @@
-# Exercício 6
+# Exercício 06
 
 # Calcule o tempo de uma viagem de carro.
 # Pergunte a distância a percorrer e a velocidade média
